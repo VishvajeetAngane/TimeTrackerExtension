@@ -49,3 +49,4 @@ Providing personalized insights based on browsing patterns
 
 ## Ouput : 
 
+![Image](https://github.com/user-attachments/assets/3c3d7251-80a9-4ce7-8771-f56babc8ae5c)
